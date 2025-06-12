@@ -24,4 +24,4 @@ elif op == "/":
         ans = num1/num2
         print("Жооп: " + str(ans))
 else:
-    print("Андай операция жок!")
+    print("Андай операция жок")
